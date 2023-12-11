@@ -5,6 +5,9 @@ void bubblesort(){
 void quicksort(){
     //
 }
+void mergesort(){
+    //
+}
 int main(){
     int a,b;
     std::cin>>a>>b;
